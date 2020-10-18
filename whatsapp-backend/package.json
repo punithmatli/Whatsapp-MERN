@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-backend",
+  "version": "1.0.0",
+  "description": "Whatsapp Clone Backend",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Punith",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
